@@ -1,0 +1,23 @@
+{
+
+"images": [
+    "../media/images/dolp.png"
+],
+
+"framerate": 1,
+"frames": [
+    [0, 0, 176, 341, 0, -1, 0],
+    [176, 0, 155, 342, 0, -40, 0],
+    [331, 0, 146, 343, 0, -85, 0]
+],
+
+"animations": {
+    "idle": { "frames": [0,1,2] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:3318f2051c1f089e2b74610ff1f2efd6:216b423cec2ec4f1358297ece138ea24:586f17588be0c6d7c3cf32818c950dc0$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

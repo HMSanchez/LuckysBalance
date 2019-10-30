@@ -1,0 +1,29 @@
+{
+
+"images": [
+    "../media/images/ballSheet/beachball.png"
+],
+
+"framerate": 2,
+"frames": [
+    [0, 0, 147, 147, 0, 0, 0],
+    [147, 0, 146, 146, 0, 0, 0],
+    [293, 0, 146, 146, 0, 0, 0],
+    [0, 147, 146, 146, 0, 0, 0],
+    [146, 147, 149, 149, 0, 0, 0],
+    [295, 147, 146, 146, 0, 0, 0],
+    [0, 296, 146, 146, 0, 0, 0],
+    [146, 296, 146, 146, 0, 0, 0],
+    [292, 296, 146, 146, 0, 0, 0]
+],
+
+"animations": {
+    "roll": { "frames": [0, 1, 2, 3, 4, 5, 6, 7, 8] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:7a839e5b1d9c62784b1dc894129105fc:c7b1b6bfba0e4aa83bd818b949e7f583:4b14c2c40af3983340575dcc8faaec73$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

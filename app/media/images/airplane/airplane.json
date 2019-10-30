@@ -1,0 +1,26 @@
+{
+
+"images": [
+    "../media/images/airplane/airplane.png"
+],
+
+"framerate": 3,
+"frames": [
+    [0, 0, 89, 38, 0, 0, 0],
+    [89, 0, 89, 38, 0, 0, 0],
+    [0, 38, 91, 43, 0, 0, 0],
+    [91, 38, 87, 43, 0, 0, 0],
+    [0, 81, 87, 43, 0, 0, 0],
+    [87, 81, 91, 43, 0, 0, 0]
+],
+
+"animations": {
+    "fly": { "frames": [0, 1, 4, 3, 2, 5] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:7536f49c186ec4aa9742af816de5a8cb:4f6daee84d1d77285409b16f96637b6a:b93b238258473f1462266da1b7a31e8e$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

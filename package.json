@@ -1,0 +1,14 @@
+{
+  "name": "starterprojectresources",
+  "version": "1.0.0",
+  "description": "class dem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hsanchez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

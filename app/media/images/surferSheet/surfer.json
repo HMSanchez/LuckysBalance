@@ -1,0 +1,29 @@
+{
+
+"images": [
+    "surfer.png"
+],
+
+"framerate": 20,
+"frames": [
+    [0, 0, 28, 105, 0, 0, 0],
+    [28, 0, 35, 104, 0, 0, 0],
+    [63, 0, 38, 103, 0, 0, 0],
+    [101, 0, 39, 102, 0, 0, 0],
+    [140, 0, 57, 97, 0, 0, 0],
+    [197, 0, 58, 91, 0, 0, 0],
+    [0, 105, 79, 81, 0, 0, 0],
+    [79, 105, 80, 82, 0, 0, 0],
+    [159, 105, 90, 70, 0, 0, 0]
+],
+
+"animations": {
+    "Surfing": { "frames": [8, 6, 4, 1, 2, 0, 3, 5, 7] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:8714e38d4ffdcbdde5b56ce7a855756e:1e8ae9a86344c010df5646585e1a670e:08e9dde748f6097cbb58fca8bbe3cabe$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

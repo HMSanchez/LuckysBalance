@@ -1,0 +1,24 @@
+{
+
+"images": [
+    "../media/images/luckydance/dance.png"
+],
+
+"framerate": 10,
+"frames": [
+    [0, 0, 90, 114, 0, 0, 0],
+    [90, 0, 90, 114, 0, 0, 0],
+    [180, 0, 58, 110, 0, 0, 0],
+    [238, 0, 58, 110, 0, 0, 0]
+],
+
+"animations": {
+    "dance": { "frames": [0,1,2,3] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:648b514034a3b31fd0f2b9eef92f9593:9d376c6fd80fded2246515bfc4f1030e:89a4897f34a9a75d14f2f449ccc36a1f$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
